@@ -1,0 +1,100 @@
+
+#titulo_principal{
+    font-size: 34px;
+    text-align: center;
+}
+#titulo1{
+    text-align: center;
+    margin-right: 30px;
+    color: #c62828;
+}
+li{
+    font-size: 18px;
+    margin: 6px 0;
+}
+#first{
+    font-style:italic; font-size: 20px;
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: #FFF5E1;
+}
+ol, ul{
+    list-style-position: inside;
+    text-align: center;
+}
+#titulo2_index{
+    font-family: Georgia,serif;
+    font-size: 28px;
+    color:brown;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.res{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkslategray;
+}
+.titulo_contato{
+    font-family: Georgia,serif;
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+nav a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #3d9970;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: all 0.5s ease;
+}
+nav a:hover{
+    background: #c62828;
+    color: #fff;
+    text-align: center;
+}
+#logo_index{
+    text-align: center;   
+}
+h3{
+    color: brown;
+    font-size: 28px;
+}
+table{
+    margin:0 auto;
+    border-collapse: separate;
+    border-spacing: 20px 20px;
+
+}
+table td:last-child{
+    text-align: right;
+    
+}
+.pizza{
+    color: #b22222;
+    font-weight: bold;
+    font-size: 18px;
+}
+.sobre{
+    font-style: italic;
+    font-size: 18px;
+    color: black;
+}
+.aviso{
+    margin: 20px;
+    border: 2px solid #b22222;
+    background-color: #fff3cd;
+    width: 47%;
+    text-align: center;
+    border-radius: 6px;
+}
+.aviso td{
+    padding: 15px;
+    font-weight: bold;
+    color: #333;
+}
